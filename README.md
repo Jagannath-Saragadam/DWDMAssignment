@@ -61,3 +61,5 @@ r= 0.817619
 
 
 ![Scatter PLot](https://github.com/Jagannath-Saragadam/DWDMAssignment/blob/master/basic_line.png)
+
+Link to plot:  https://plot.ly/~jagannathsrs/12/correlation-between-age-and-body-fat/
