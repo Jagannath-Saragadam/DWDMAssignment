@@ -50,3 +50,14 @@ Age |	perFat |	zscore_age |	zscore_%fat
 
 **2. Pearson Corealtion Factor**
 
+
+![Pearson Coefficent](https://github.com/Jagannath-Saragadam/DWDMAssignment/blob/master/pearson.svg)
+
+```python
+new_df.corr(method='pearson', min_periods=1)
+```
+
+r= 0.817619
+
+
+![Scatter PLot](https://github.com/Jagannath-Saragadam/DWDMAssignment/blob/master/basic_line.png)
